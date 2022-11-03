@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/lottmarcos">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lottmarcos&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lottmarcos&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lottmarcos&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lottmarcos&layout=compact&theme=dracula"/>
 </div>
 
 ### ------------------------------------
