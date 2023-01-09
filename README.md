@@ -21,6 +21,3 @@
   <img align="center" alt="Lott-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lott-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div><br/>
-
-  ![Snake animation](https://github.com/lottmarcos/lottmarcos/blob/output/github-contribution-grid-snake.svg)
-
