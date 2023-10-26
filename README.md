@@ -1,14 +1,14 @@
-<h4 align="center">hello there, I'm Marcos. - 
+<h2 align="center">hello there! I'm Marcos. - 
     <a href="https://linkedin.com/in/lott-marcos" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lott-marcos" height="15" width="20" style="margin-right: 8px" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lott-marcos" height="21" width="28" style="margin-right: 8px" />
     </a>
     <a href="https://instagram.com/lott.marcos" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lott.marcos" height="15" width="20" />
-    </a></h4>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lott.marcos" height="21" width="28" />
+    </a></h2>
 
 <div align="center">
 <div align="center" style="width: 214px">
-  <h3>Languages and Tools:</h3>
+  <h3>languages and tools:</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
