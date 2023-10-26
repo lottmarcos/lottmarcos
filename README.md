@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Marcos!</h1>
-
-<div align="center">
-<div align="center" style="width: 214px">
-  <h3>Connect with me:</h3>
-  <p align="center">
+<h4 align="center">hello there, I'm Marcos. - 
     <a href="https://linkedin.com/in/lott-marcos" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lott-marcos" height="30" width="40" style="margin-right: 8px" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lott-marcos" height="15" width="20" style="margin-right: 8px" />
     </a>
     <a href="https://instagram.com/lott.marcos" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lott.marcos" height="30" width="40" />
-    </a>
-  </p>
-</div>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lott.marcos" height="15" width="20" />
+    </a></h4>
 
+<div align="center">
 <div align="center" style="width: 214px">
   <h3>Languages and Tools:</h3>
   <p align="center">
