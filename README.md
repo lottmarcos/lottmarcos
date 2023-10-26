@@ -30,7 +30,5 @@
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoslottdito" alt="marcoslottdito" />
-  </p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarcosLottDito&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
