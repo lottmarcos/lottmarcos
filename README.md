@@ -8,7 +8,6 @@
 
 <div align="center">
 <div align="center" style="width: 214px">
-  <h3>languages and tools:</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
