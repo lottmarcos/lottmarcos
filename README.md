@@ -1,4 +1,4 @@
-<h2 align="center">hello there! I'm Marcos. - 
+<h2 align="center">hello there! i'm a front end developer. - 
     <a href="https://linkedin.com/in/lott-marcos" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lott-marcos" height="21" width="28" style="margin-right: 8px" />
     </a>
