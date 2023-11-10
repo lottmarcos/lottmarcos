@@ -14,22 +14,17 @@
   <img href="mailto:lott.marcos@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
 </p>
 
-<details> 
-  <summary><h2>📊 stats and activity</h2></summary>
-    
+<summary><h2>📊 stats and activity</h2></summary>
 <h3>💻 github stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
-</a>
-  
+  </a>
 <h3>🔥 streak stats</h3>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=MarcosLottDito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
-</a>
-
+  </a>
 <h3>🕗 wakatime</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
-</a>
-</details>
+  </a>
   
