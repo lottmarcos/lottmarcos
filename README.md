@@ -17,7 +17,7 @@
 <summary><h2>📊 stats and activity</h2></summary>
 <h3>💻 github stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
+    <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" alt="" height="192px"/>
   </a>
 <h3>🔥 streak stats</h3>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
