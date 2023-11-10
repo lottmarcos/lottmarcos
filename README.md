@@ -26,7 +26,7 @@
 
 <h3>🔥 streak stats</h3>
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-dun.vercel.app?user=MarcosLottDito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
+        <img src="https://github-readme-streak-stats-dun.vercel.app?user=lucasmonteirodito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
       </a>
 
 <h3>🕗 wakatime</h3>
