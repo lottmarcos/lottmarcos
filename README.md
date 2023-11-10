@@ -1,33 +1,36 @@
-
 <h2 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=hello%2C+there!+i'm+a+frontend+engineer+%F0%9F%91%8B"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=hi!+i'm+marcos+lott+%F0%9F%91%8B"/>
     </a>
 </h2>
 
-<summary><h2>🙋‍♂️ about me</h2></summary>
+<h3>🙋‍♂️ about me</h3>
 <p>i'm a brazilian frontend developer at <a href="https://github.com/ditointernet">@ditointernet</a> working with react with typescript.</p>
 
-<summary><h2>🔗 connect with me</h2></summary>
+<h3>🔗 connect with me</h3>
 <a href="https://www.linkedin.com/in/lott-marcos/">
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="24px"/>
-    
+
 </a>
 <a href="mailto:lott.marcos@gmail.com">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
 </a>
 
-<summary><h2>📊 stats and activity</h2></summary>
+<details>
+<summary><h3>📊 stats and activity</h3></summary>
+
 <h3>💻 github stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" alt="" height="192px"/>
-  </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" alt="" height="192px"/>
+      </a>
+
 <h3>🔥 streak stats</h3>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-dun.vercel.app?user=MarcosLottDito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
-  </a>
-<!-- <h3>🕗 wakatime</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
-  </a> -->
-  
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats-dun.vercel.app?user=MarcosLottDito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
+      </a>
+
+  <!-- <h3>🕗 wakatime</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
+      </a> -->
+  </details>
