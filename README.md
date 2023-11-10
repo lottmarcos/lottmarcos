@@ -5,10 +5,10 @@
     </a>
 </h2>
 
-<h2>🙋‍♂️ about me</h2>
+<summary><h2>🙋‍♂️ about me</h2></summary>
 <p>i'm a brazilian frontend developer at <a href="https://github.com/ditointernet">@ditointernet</a> working with react with typescript.</p>
 
-<h2>🔗 connect with me</h2>
+<summary><h2>🔗 connect with me</h2></summary>
 <p>
   <img href="https://www.linkedin.com/in/lott-marcos/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="24px"/>
   <img href="mailto:lott.marcos@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
