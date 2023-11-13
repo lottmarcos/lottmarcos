@@ -28,9 +28,9 @@
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats-dun.vercel.app?user=MarcosLottDito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
       </a>
-
+<!--  
 <h3>🕗 wakatime</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
-      </a>
+      </a> -->
 </details>
