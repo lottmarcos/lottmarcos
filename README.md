@@ -31,6 +31,6 @@
  
 <h3>🕗 wakatime</h3>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true" alt="" height="192px"/>
+          <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true"/>
       </a>
 </details>
