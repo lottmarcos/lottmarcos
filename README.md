@@ -21,7 +21,7 @@
 
 <h3>💻 github stats</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" alt="" height="192px"/>
+        <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github&compact" alt="" height="192px"/>
       </a>
 
 <h3>🔥 streak stats</h3>
@@ -31,6 +31,6 @@
  
 <h3>🕗 wakatime</h3>
      <a href="https://wakatime.com/@lottmarcos">
-          <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true"/>
+          <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api/wakatime?username=lottmarcos&&theme=dracula&hide_border=true&count_private=true&layout=compact"/>
       </a>
 </details>
