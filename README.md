@@ -10,7 +10,6 @@
 <h3>🔗 connect with me</h3>
 <a href="https://www.linkedin.com/in/lott-marcos/">
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="24px"/>
-
 </a>
 <a href="mailto:lott.marcos@gmail.com">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
