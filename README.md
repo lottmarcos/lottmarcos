@@ -5,7 +5,7 @@
 </h2>
 
 <h3>🙋‍♂️ about me</h3>
-<p>i'm a brazilian frontend developer at <a href="https://github.com/ditointernet">@ditointernet</a> developing an application for the most importants retailers in Brazil.</p>
+<p>i'm a brazilian frontend developer working on an application for the most importants retailers in Brazil.</p>
 
 <h3>🔗 connect with me</h3>
 <a href="https://www.linkedin.com/in/lott-marcos/">
