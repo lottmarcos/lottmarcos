@@ -4,7 +4,7 @@
     </a>
 </h2>
 
-<h3>🙋‍♂️ about me</h3>
+<h3>👋 about me</h3>
 <p>i'm a brazilian frontend developer working on an application for the most importants retailers in Brazil.</p>
 
 <h3>🔗 connect with me</h3>
