@@ -20,8 +20,7 @@
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
 </a>
 
-<details>
-<summary><h3>📊 stats and activity</h3></summary>
+<summary><h3>📊 stats and activity</h3> <details></summary>
 
 <h3>- 💻 github stats</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
