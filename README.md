@@ -21,7 +21,7 @@
 </a>
 
 <h3>📊 stats and activity</h3>
-<h4>- 💻 github stats</h4>
+<h4>- 💻 github</h4>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github&compact" alt="" height="192px"/>
       </a>
