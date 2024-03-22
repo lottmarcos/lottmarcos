@@ -20,9 +20,8 @@
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
 </a>
 
-<summary><h3>📊 stats and activity</h3></summary>
 <details>
-
+<summary><h3>📊 stats and activity</h3></summary>
 <h3>- 💻 github stats</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github&compact" alt="" height="192px"/>
