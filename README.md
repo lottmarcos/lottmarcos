@@ -26,7 +26,7 @@
         <img src="https://github-readme-stats-marcos-lotts-projects.vercel.app/api?username=MarcosLottDito&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github&compact" alt="" height="192px"/>
       </a>
 
-<h4>- 🔥 streak stats</h4>
+<h4>- 🔥 streak</h4>
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats-dun.vercel.app?user=MarcosLottDito&theme=dracula&hide_border=true&exclude_days=Sun%2CSat" alt="" height="192px"/>
       </a>
