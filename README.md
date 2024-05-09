@@ -10,7 +10,8 @@
 <h3>🔗 connect with me</h3>
 
 <p>
-    I'm passionate about crafting seamless user experiences and delivering high-quality web applications. If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
+    I'm passionate about crafting seamless user experiences and delivering high-quality web applications. 
+    If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
 </p>
 
 <a href="https://www.linkedin.com/in/lott-marcos/">
