@@ -11,6 +11,8 @@
 
 <p>
     I'm passionate about crafting seamless user experiences and delivering high-quality web applications. 
+</p>   
+<p> 
     If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
 </p>
 
