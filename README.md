@@ -19,6 +19,9 @@
 <a href="mailto:lott.marcos@gmail.com">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="24px"/>
 </a>
+<a href="https://medium.com/@lott.marcos">
+    <img  src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="" height="24px"/>
+</a>
 
 <h3>📊 stats and activity</h3>
 <a href="https://wakatime.com/@lottmarcos">
