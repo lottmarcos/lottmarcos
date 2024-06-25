@@ -5,7 +5,7 @@
 </h2>
 
 <h3>👋 about me</h3>
-<p>i'm a 22yo brazilian self-taught software engineer, specializing in front-end development.</p>
+<p>i'm a 22yo brazilian software engineer, specializing in front-end development.</p>
 
 <h3>🔗 connect with me</h3>
 
