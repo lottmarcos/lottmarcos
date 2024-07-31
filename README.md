@@ -1,6 +1,6 @@
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=lott"/>
+<a href="https://git.io/typing-svg" align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=lott" align="center"/>
 </a>
 
 <h3>👋 about me</h3>
@@ -9,7 +9,9 @@
 <h3>🔗 connect with me</h3>
 
 <p>
-    I'm passionate about crafting seamless user experiences and delivering high-quality web applications. If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
+    I'm passionate about crafting seamless user experiences and delivering high-quality web applications.
+<br/>
+    If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
 </p>
 
 <a href="https://www.linkedin.com/in/lott-marcos/">
