@@ -1,7 +1,8 @@
-
+<h3 align="center">
 <a href="https://git.io/typing-svg" align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=lott" align="center"/>
 </a>
+<h3/>
 
 <h3>👋 about me</h3>
 <p>i'm a 22yo brazilian software engineer, specializing in front-end development.</p>
