@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/lott-marcos/">
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="24px"/>
 </a>
+<br/>
 <a href="https://medium.com/@lott.marcos">
     <img  src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="" height="24px"/>
 </a>
