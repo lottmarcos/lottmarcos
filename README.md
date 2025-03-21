@@ -10,9 +10,9 @@
 <h3>🔗 connect with me</h3>
 
 <p>
-    I'm passionate about user experience and building high-quality web applications.
+    I'm passionate about user experience and build high-quality web applications.
 <br/>
-    If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
+   feel free to reach me out!
 </p>
 
 <a href="https://www.linkedin.com/in/lott-marcos/">
