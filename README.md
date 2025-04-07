@@ -5,7 +5,7 @@
 <h3/>
 
 <h3>👋 about me</h3>
-<p>i'm a brazilian software engineer focused on front-end development.</p>
+<p>i'm a brazilian software engineer focused on front-end development and user experience.</p>
 
 <h3>🔗 connect with me</h3>
 
