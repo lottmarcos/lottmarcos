@@ -15,9 +15,14 @@
    feel free to reach me out!
 </p>
 
+<a href="https://www.instagram.com/lott.dev/">
+  <img  src="https://img.shields.io/badge/INSTAGRAM-logo?style=for-the-badge&logo=Instagram&logoColor=white&color=C13584" alt="" height="24px"/>
+</a>
 <a href="https://www.linkedin.com/in/lott-marcos/">
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="24px"/>
 </a>
+
+
 <br/>
 
 <h3>📊 stats and activity</h3>
